@@ -11,7 +11,7 @@ The Kapitza-Dirac effect is a quantum mechanical phenomenon where matter waves (
 ### Mathematical Model
 
 The system is described by a set of coupled differential equations in momentum space. In the adiabatic approximation, where we consider the internal atomic dynamics to be much faster than the center-of-mass motion, the system reduces to:
-$i\frac{da}{dt} = (ω_{rec}n^{2}+\Omega_{dim})a_{n}(t)+\frac{\Omega_{dim}}{2}(a_{n-2}(t)+a_{n+2}(t))$
+$$i\frac{da(t)}{dt} = (ω_{rec}n^{2}+\Omega_{dim})a_{n}(t)+\frac{\Omega_{dim}}{2}(a_{n-2}(t)+a_{n+2}(t))$$
 
 where:
 
